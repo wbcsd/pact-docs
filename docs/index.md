@@ -48,7 +48,7 @@ See the [Directory Service documentation](pact-directory-service/) for more info
 ## Reference
 
 - [Data Exchange Protocol Reference](ref/data-exchange-protocol/3.0.0/)
-- [Methodology](ref/methodology/)
+- [Methodology](ref/methodology/pact-methodology-v3.0.pdf)
 
 ---
 
