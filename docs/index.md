@@ -23,9 +23,10 @@ See the [Technical Specifications](data-exchange-protocol/) for details.
 The PACT Conformance Tool is used for assessing conformance of any API implementation to the PACT specifications.  
 Resources include:
 
-- **Test Cases:** Documentation and downloadable test case PDFs.
+- **Test Cases:** Detailed test cases for [version 2.x](pact-conformance-service/v2-test-cases-expected-results.md) and [version 3.0](pact-conformance-service/v3-test-cases-expected-results.md)
 - **Guides:** Step-by-step guides for MVP testing and beta retesting.
-- **FAQs:** Frequently asked questions about conformance and testing.
+- **FAQs:** Frequently asked questions and information on [conformance policy](pact-conformance-service/beta_retesting_policy.md)
+
 
 See the [Conformance Tool documentation](pact-conformance-service/) for more.
 
