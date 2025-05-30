@@ -13,8 +13,7 @@ INCLUDE_PROJECTS  = [
 IGNORE_FILES = [
     "EDITING.md",
     "CONTRIBUTING.md",
-    "CODE_OF_CONDUCT.md",
-    "LICENSE.md"
+    "CODE_OF_CONDUCT.md"
 ]
 
 # Generate html from markdown
