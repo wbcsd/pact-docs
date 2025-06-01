@@ -133,3 +133,4 @@ def build(c):
     os.makedirs("build", exist_ok=True)
     render_markdown_dir(f"docs", f"build")
     run(f"cp -r assets build")
+    run(f"cp build/data-exchange-protocol/LICENSE.html build/license.html")
