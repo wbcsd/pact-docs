@@ -38,7 +38,7 @@ def render_markdown(input, output: str):
     with open(input, "r") as input_file:
         html = header + markdown.markdown(
             input_file.read(), 
-            extensions=['tables','md_in_html', 'fenced_code', 'codehilite', 'toc', 'attr_list']
+            extensions=['tables','md_in_html', 'fenced_code', 'codehilite', 'toc', 'attr_list', 'sane_lists']
             ) + footer
         
         # replace all <a href="... .md" to <a href="... .html"
