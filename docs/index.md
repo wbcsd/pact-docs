@@ -25,7 +25,7 @@ Resources include:
 
 - **Test Cases:** Detailed test cases for [version 2.x](pact-conformance-service/v2-test-cases-expected-results.md) and [version 3.0](pact-conformance-service/v3-test-cases-expected-results.md)
 - **Guides:** Step-by-step guides for MVP testing and beta retesting.
-- **FAQs:** Frequently asked questions and information on [conformance policy](pact-conformance-service/beta_retesting_policy.md)
+- **FAQs:** Frequently asked questions and information on [conformance policy](pact-conformance-service/user-guide-and-retesting-policy.md)
 
 
 See the [Conformance Tool documentation](pact-conformance-service/) for more.
