@@ -126,7 +126,8 @@ def build(c):
                     copy_and_adjust_links(file, f"docs/{repo}/{os.path.basename(file)}")
 
     run(f"cp -r temp/tr/* docs/tr")
-    run(f"cp -r temp/data-exchange-protocol/ref docs")
+    run(f"mkdir -p docs/ref")
+    run(f"cp -r temp/tr/methodology docs/ref/methodology")
     run(f"rm docs/tr/README.md")
     run(f"rm docs/tr/index.md")
 
